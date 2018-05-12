@@ -1,0 +1,27 @@
+_repo: Pen-Drawing--An-Illustrated-Treatise_17502
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maginnis, Charles Donagh
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '7427'
+    url: http://www.gutenberg.org/2009/agents/7427
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Donagh_Maginnis
+description: ''
+gutenberg_issued: '2006-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'Pen drawing'
+title: 'Pen Drawing: An Illustrated Treatise'
+url: http://www.gutenberg.org/ebooks/17502
